@@ -1,7 +1,8 @@
 npm init -y
-npm install express mongoose dotenv bcryptjs jsonwebtoken swagger-jsdoc swagger-ui-express cors
-npm install nodemon --save-dev
 
+npm install express mongoose dotenv bcryptjs jsonwebtoken swagger-jsdoc swagger-ui-express cors
+
+npm install nodemon --save-dev
 
 
 ### Run nodemon
